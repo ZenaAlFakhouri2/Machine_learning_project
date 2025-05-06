@@ -1,4 +1,5 @@
-#Machine_project 
+#Machine_project
+
 This machine learning project focuses on predicting customer churn in a telecommunications company using customer-related data. The goal is to identify customers who are likely to cancel their subscription so the company can take preventive actions.
 
 Key Steps:
